@@ -1,4 +1,4 @@
-# :star:<strong style="color: blue; opacity: 0.80">**IHM PROJECT**</strong> :star: 
+
 # Introduction
 :star:
 We have created a wordpress theme based on three pages (Accueil,cours,professeur),we hope you like our work.
@@ -84,4 +84,4 @@ First you go to pages section and you can choose which page you want to edit
 
 we hope you liked it.
 
-## Created by: OUARDINI ANASS & LHROUI EL MEHDI
+## Created by: LHROUI EL MEHDI
